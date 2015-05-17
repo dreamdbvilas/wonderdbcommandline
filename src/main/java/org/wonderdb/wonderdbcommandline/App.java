@@ -1,4 +1,4 @@
-package org.wonderdb.wonderdbjdbcdriver;
+package org.wonderdb.wonderdbcommandline;
 
 /**
  * Hello world!
